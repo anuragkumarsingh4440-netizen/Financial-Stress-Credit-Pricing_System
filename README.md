@@ -5,7 +5,7 @@
 🔗 **Live App:** [risk-pulse.streamlit.app](https://risk-pulse.streamlit.app)  
 🔗 **GitHub:** [github.com/anuragkumarsingh4440](https://github.com/anuragkumarsingh4440)  
 🔗 **LinkedIn:** [linkedin.com/in/anurag-kumar-singh4440](https://www.linkedin.com/in/anurag-kumar-singh4440)  
-🔗 **Demo Video (LinkedIn):** [linkedin.com/in/anurag-kumar-singh4440](https://www.linkedin.com/in/anurag-kumar-singh4440)
+🔗 **Demo Video (LinkedIn):** [linkedin.com/in/anurag-kumar-singh4440](https://www.linkedin.com/posts/anurag-kumar-singh4440_fintech-explainableai-creditrisk-activity-7417163140762742784-YKLC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2NwdkBVynk1_PhoRha6EEqB01AQC-0U50)
 
 
 ---
