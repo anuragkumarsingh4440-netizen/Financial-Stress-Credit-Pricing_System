@@ -1,0 +1,9 @@
+{
+    "model_type": "LightGBM",
+    "version": "1.0",
+    "features": [
+        "age",
+        "income",
+        "loan_amount"
+    ]
+}
