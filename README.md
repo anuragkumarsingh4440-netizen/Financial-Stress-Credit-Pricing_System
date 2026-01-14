@@ -1,10 +1,18 @@
 # 🚀 AI Financial Stress Index & Dynamic Credit Pricing System
 
-🔗 **Live App:** https://<your-live-app-link>  
-🔗 **GitHub:** https://github.com/anuragkumarsingh4440  
-🔗 **LinkedIn:** https://www.linkedin.com/in/anurag-kumar-singh4440  
+# 🚀 Project Showcase
+
+🔗 **Live App:** [risk-pulse.streamlit.app](https://risk-pulse.streamlit.app)  
+🔗 **GitHub:** [github.com/anuragkumarsingh4440](https://github.com/anuragkumarsingh4440)  
+🔗 **LinkedIn:** [linkedin.com/in/anurag-kumar-singh4440](https://www.linkedin.com/in/anurag-kumar-singh4440)  
+🔗 **Demo Video (LinkedIn):** [linkedin.com/in/anurag-kumar-singh4440](https://www.linkedin.com/in/anurag-kumar-singh4440)
+
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7af0bc01-e458-4594-9f84-d88119b35336" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a56f63a2-dd94-4719-a672-10cb1da18fcc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73a1ac61-f238-4ce9-81f5-bdf3720d0e1d" />
+
 
 ## 🔴 Core Motivation (Real Banking Insight)
 
